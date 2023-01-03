@@ -1,2 +1,0 @@
-# GetPostRequest
-SpringBoot and SpringMVC 
